@@ -1,7 +1,6 @@
 # Hi there, I'm Rai Katsuragawa 👋
 
-I'm a Computer Science student at Brigham Young University, with a passion for software development, artificial intelligence. I love exploring new technologies and working on projects that challenge my skills and creativity.
-I'm from a tiny and remote city in Japan where there are more monkeys than people. I love to connect with you!
+I'm a Computer Science student at Brigham Young University, with a passion for software development, and artificial intelligence. I love exploring new technologies and working on projects that challenge my skills and creativity.
 
 ## 🎓 Education
 - **Bachelor of Science in Computer Science**
@@ -32,7 +31,7 @@ I'm from a tiny and remote city in Japan where there are more monkeys than peopl
 - Deep Learning
 
 ## 👯 Let's Collaborate
-I'm open to collaborating on interesting projects, especially those related to web development, AI, open-sources. Feel free to reach out if you have something in mind!
+I'm open to collaborating on interesting projects, especially those related to web development, AI, open sources. Feel free to reach out if you have something in mind!
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [www.linkedin.com/in/katsu-rai]
@@ -40,7 +39,10 @@ I'm open to collaborating on interesting projects, especially those related to w
 - **GitHub:** [https://github.com/katsu-rai]
 
 ## ✨ Fun Fact
+- I'm from a tiny and remote city in Japan where there are more monkeys than people. I love to connect with you!
+- I love tennis and any sports, especially the ones that use rackets!
+- I love weightlifting!
 
 ---
 
-*This README was last updated on Sep, 2024.*
+*This README was last updated on Sep 2024.*
